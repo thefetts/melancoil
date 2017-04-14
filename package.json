@@ -1,0 +1,23 @@
+{
+  "name": "melancoil",
+  "version": "1.0.0",
+  "description": "Playing around with happy numbers and the melancoil as described in https://www.youtube.com/watch?v=_DpzAvb3Vk4",
+  "main": "melancoil.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefetts/melancoil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thefetts/melancoil/issues"
+  },
+  "homepage": "https://github.com/thefetts/melancoil#readme"
+}
